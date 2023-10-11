@@ -1,4 +1,4 @@
-//Write a program in C to swap twom numbers using functions.
+//Write a program in C to swap two numbers using functions.
 #include<stdio.h>
  int swap(int a,int b)
  {
