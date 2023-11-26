@@ -1,0 +1,10 @@
+// Write a program in c to print the sum of numbers.
+#include<stdio.h> 
+int main() 
+{ 
+int n,s; 
+printf("Enter the value of the limit of the sum of the numbers whose sum is to be printed:"); 
+scanf("%d",&n); 
+s=n*(n+1)/2; 
+printf("The required sum is:%d",s); 
+} 
